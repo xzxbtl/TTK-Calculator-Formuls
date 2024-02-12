@@ -1,4 +1,5 @@
-('X:\\tkinter calculater\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\xzxbtl\\PycharmProjects\\pythonProject1\\tkinter '
+ 'calculater\\build\\main\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\xzxbtl\\venv\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
